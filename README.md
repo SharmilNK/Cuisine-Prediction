@@ -1,5 +1,6 @@
 # Cuisine Prediction Using Machine Learning
 
+test accuracy=  0.782
 # Overview
 
 This project predicts the cuisine category (e.g., Indian, Italian, Chinese, Greek) of a dish based on its list of ingredients.
